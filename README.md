@@ -2,6 +2,13 @@
 
 Aplikasi katalog film (Laravel 13, Bootstrap 3) dengan **dashboard admin**, **CRUD**, **login/register**, **relasi model**, dan gambar poster yang disimpan di **storage**.
 
+## 🌐 Live Demo (Deployment)
+
+Aplikasi ini sudah di-deploy dan dapat diakses secara online melalui tautan berikut:
+* **URL Aplikasi:** [https://zabranfilm.freedev.app/](https://zabranfilm.freedev.app/)
+
+> Kamu bisa langsung mencoba fitur aplikasi menggunakan akun bawaan yang tercantum di bawah ini tanpa perlu melakukan instalasi lokal.
+
 ## Cara menjalankan
 
 ```bash
